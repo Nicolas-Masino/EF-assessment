@@ -28,3 +28,4 @@ Then the results were compared with Relief and were assessed the different featu
 
 ## Organization
 The work is organized as follows:
+In breast cancer_github.R contains the classification process SVM model and the feature selection task. Conversely, in effect-size.R computes the different effect sizes and analyses their behaviors.
